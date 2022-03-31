@@ -16,6 +16,4 @@ public class phone_number {
         return answer;
     }
 
-
-    // main 확인 할 것
 }
