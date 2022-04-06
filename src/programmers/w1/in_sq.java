@@ -1,4 +1,4 @@
-package programmers;
+package programmers.w1;
 
 import java.util.Scanner;
 public class in_sq {

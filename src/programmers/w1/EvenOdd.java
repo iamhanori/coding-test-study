@@ -1,4 +1,4 @@
-package programmers;
+package programmers.w1;
 
 class Solution {
     // 0328
