@@ -1,5 +1,5 @@
-package programmers.w1;
-// 0329
+package programmers;
+
 import java.util.Scanner;
 
 public class x_distance_n {

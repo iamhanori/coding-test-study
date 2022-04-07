@@ -1,5 +1,5 @@
-package programmers.w1;
-// 0331
+package programmers;
+
 public class phone_number {
 
     public String solution(String phone_number) {
