@@ -1,4 +1,4 @@
-package programmers.w1;
+package programmers;
 
 public class phone_number {
 
