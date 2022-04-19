@@ -33,4 +33,3 @@ public class min {
             return answer;
         }
     }
-}
