@@ -1,4 +1,4 @@
-package w4;
+package programmers.w4;
 
 public class min {
         public int[] solution(int[] arr) {
@@ -33,4 +33,3 @@ public class min {
             return answer;
         }
     }
-}
