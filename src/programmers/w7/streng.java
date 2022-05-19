@@ -10,5 +10,4 @@ public class streng {
 
             return Integer.parseInt(s);
         }
-    }
 }
